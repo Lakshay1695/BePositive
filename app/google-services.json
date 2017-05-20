@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1050788595629",
+    "firebase_url": "https://be-positive-ebb35.firebaseio.com",
+    "project_id": "be-positive-ebb35",
+    "storage_bucket": "be-positive-ebb35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050788595629:android:8b90240bca83e59d",
+        "android_client_info": {
+          "package_name": "es.esy.lakshaymalhotra.bepositive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050788595629-isuc2mr956iu0mpuoibjb6rsuob15ukp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaBgaIWDYGjZh8-0V4wyaYEUp2md0hO2c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
